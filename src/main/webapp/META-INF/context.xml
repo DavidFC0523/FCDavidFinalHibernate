@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" docBase="FCDavidMapeo1anD" path="/FCDavidFinalHibernate">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="100" maxIdle="30" maxWait="10000" name="jdbc/AUEC" password="2022" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/finalHib2022" username="java2022"/>
+</Context>
